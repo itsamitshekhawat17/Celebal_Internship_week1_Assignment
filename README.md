@@ -20,3 +20,5 @@ Perform basic data exploration and cleaning using Pandas.
 ## Files Included
 - assignment.ipynb
 - cleaned_shopping.csv
+-  requirements.txt
+- Combined_dataset.csv
